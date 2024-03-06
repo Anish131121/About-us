@@ -1,0 +1,16 @@
+body{
+    background-color:white;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-color: white; /* Change to the color you prefer, like lightgray or lightblue */
+    margin: 0;
+    padding: 0px; /* Added padding for better visual appeal */
+}
+
+h1{
+    color: black; /* Set heading color */
+}
